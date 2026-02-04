@@ -1,0 +1,169 @@
+{
+  "project_info": {
+    "project_number": "930432811261",
+    "project_id": "caters-e2db5",
+    "storage_bucket": "caters-e2db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930432811261:android:d7b29fb8d8bc6b8c5e7e94",
+        "android_client_info": {
+          "package_name": "com.app.caters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930432811261-93rfdkg77rik9sobi5gebuni9cgtev6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.caters",
+            "certificate_hash": "611e4cada536e5f6a2e4e8bb81c59b5135a95cae"
+          }
+        },
+        {
+          "client_id": "930432811261-ojmatfaq5rjj858m3sqlls0k9ubo8t61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.caters",
+            "certificate_hash": "9d7cf1a3380d8a10f5507dcbc5e6ba85b0751dfd"
+          }
+        },
+        {
+          "client_id": "930432811261-tqu8d3m7l2a8bqjmrp3lfpu41hrfl2nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.caters",
+            "certificate_hash": "8b6aae7eb617c26ac2318fa455b781fb5e3341ba"
+          }
+        },
+        {
+          "client_id": "930432811261-tbd195uaofndai2qlum5meq1dh2v1af6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7SB11NRZdfRf1JyOGVW1tXwFCXAYOsX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930432811261-l55fd7chj0fi9v06mbcbhbanak7l3e4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930432811261:android:e6592732598195cd5e7e94",
+        "android_client_info": {
+          "package_name": "com.app.caters_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930432811261-6kkrrdagt8qckmoqve6dap0o4tgpt97h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.caters_delivery",
+            "certificate_hash": "4e45721d57896b91223e0f2f6137e1cfb15d43bc"
+          }
+        },
+        {
+          "client_id": "930432811261-k6sh5meppcvjdcncgj9arenljut02942.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.caters_delivery",
+            "certificate_hash": "9d7cf1a3380d8a10f5507dcbc5e6ba85b0751dfd"
+          }
+        },
+        {
+          "client_id": "930432811261-v82svgosmapq6l893oconu37g26jbn1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.caters_delivery",
+            "certificate_hash": "307e7514632f820b9eef394e2451690d5bf28fe8"
+          }
+        },
+        {
+          "client_id": "930432811261-tbd195uaofndai2qlum5meq1dh2v1af6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7SB11NRZdfRf1JyOGVW1tXwFCXAYOsX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930432811261-l55fd7chj0fi9v06mbcbhbanak7l3e4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930432811261:android:8bc8c46227b471805e7e94",
+        "android_client_info": {
+          "package_name": "com.app.caters_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930432811261-hgbeid98v4hvbf764d67jfbd3clpdvis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.caters_restaurant",
+            "certificate_hash": "9d7cf1a3380d8a10f5507dcbc5e6ba85b0751dfd"
+          }
+        },
+        {
+          "client_id": "930432811261-kugsfuams3hcjc6p0ii8gq8athav7eh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.caters_restaurant",
+            "certificate_hash": "6978aec18e0283a76aa2e31d2a6037e7ef31fd64"
+          }
+        },
+        {
+          "client_id": "930432811261-q2h0hrafhahcl280894deh9c10438j1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.caters_restaurant",
+            "certificate_hash": "8222c822394d055873f1f9c9bca16d83d3725baa"
+          }
+        },
+        {
+          "client_id": "930432811261-tbd195uaofndai2qlum5meq1dh2v1af6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7SB11NRZdfRf1JyOGVW1tXwFCXAYOsX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930432811261-l55fd7chj0fi9v06mbcbhbanak7l3e4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>930432811261-58of7f373f852d1bddvagrqpibb8462t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.930432811261-58of7f373f852d1bddvagrqpibb8462t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>930432811261-6kkrrdagt8qckmoqve6dap0o4tgpt97h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBmchEmahviZOcE9V1YC7WzLskauXOlRY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>930432811261</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.savo.caters</string>
+	<key>PROJECT_ID</key>
+	<string>caters-e2db5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>caters-e2db5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:930432811261:ios:d00cc0ffb143dca15e7e94</string>
+</dict>
+</plist>
